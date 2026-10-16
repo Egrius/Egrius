@@ -14,9 +14,9 @@ Currently diving into SQL query optimization, Spring internals, and writing clea
 
 **Testing:** JUnit, Mockito, AssertJ, Testcontainers
 
-**Tools:** Git, Gradle, Postman
+**Tools:** Git, Gradle, Postman, Docker
 
-**Currently learning:** Docker, Redis, RabbitMQ
+**Currently learning:** Redis, RabbitMQ
 
 ## 📬 Contacts
 
